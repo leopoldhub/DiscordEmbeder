@@ -1,5 +1,5 @@
 {
-  "name": "selfbot",
+  "name": "embeder",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,6 +7,10 @@
     "start": "node index.js"
   },
   "author": "BurnGemios3643",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leopoldhub/DiscordEmbeder.git"
+  },
   "license": "ISC",
   "dependencies": {
     "discord.js": "^11.6.1",
