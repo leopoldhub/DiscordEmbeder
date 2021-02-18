@@ -42,7 +42,7 @@ for example:
 
 will show this:
 
-![Embeded](https://github.com/leopoldhub/DiscordEmbeder/tree/master/screenshots/embeded0.png)
+![Embeded](https://github.com/leopoldhub/DiscordEmbeder/raw/master/screenshots/embeded0.png)
 
 ## Install
 
