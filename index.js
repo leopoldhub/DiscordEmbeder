@@ -47,7 +47,7 @@ client.on(`message`, async (msg) => {
             if(value.toString().startsWith(`0x`))jsonified[key] = parseInt(value, 16);
             else if(value.toString().match(/^[0-9]+$/g))jsonified[key] = parseInt(value);
         });
-        const embed = {embed: jsonified}
+        const embed = jsonified
         console.log(embed);
         msg.channel.send(embed);
         msg.delete();
