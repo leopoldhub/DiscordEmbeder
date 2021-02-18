@@ -3,7 +3,7 @@
 **DiscordEmbeder** is a SBot (bot with your token) who allow you to easily send embeded messages as user.
 
 for example:
-
+```json
     +embed
     {
         "content": "please look at my **GitHub**:",
@@ -39,6 +39,7 @@ for example:
             ]
         }
     }
+```
 
 will show this:
 
